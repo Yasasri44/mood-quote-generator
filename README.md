@@ -8,7 +8,7 @@ A simple and fun web app that shows a random quote based on your current mood. B
 - Stylish and responsive UI
 
 ## 🚀 Live Demo
-[Click here to view it live](https://Yasasri44.github.io/mood-quote-generator)
+[Click here to view it live](https://Yasasri44.github.io/mood-quote-generator/)
 
 ## 📁 Project Structure
 index.html
