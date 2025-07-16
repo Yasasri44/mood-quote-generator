@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fceabb;
+  background-image: linear-gradient(to right, #f8b500, #fceabb);
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  text-align: center;
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+select, button {
+  margin-top: 15px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+#quoteDisplay {
+  margin-top: 20px;
+  font-weight: bold;
+}
